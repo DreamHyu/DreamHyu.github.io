@@ -1,6 +1,6 @@
 #test
 #url解析 [demo1](https://dreamhyu.github.io/404/404.html)
-  [代码]（https://github.com/DreamHyu/Javascript-css-html/blob/master/404/404.html）<br>
+  [代码](https://github.com/DreamHyu/Javascript-css-html/blob/master/404/404.html)<br>
 [demo2](https://dreamhyu.github.io/task2/task2.html)<br>
 [demo3](https://dreamhyu.github.io/task4/Task_1_4_1.html)<br>
 [demo4](https://dreamhyu.github.io/task3/Task_1_3_1.html)<br>
